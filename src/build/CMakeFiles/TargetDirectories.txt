@@ -1,0 +1,7 @@
+/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/libbpf.dir
+/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/libbpf-build.dir
+/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/bpftool.dir
+/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/bpftool-build.dir
+/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/safesetid.dir
+/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/edit_cache.dir
+/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/rebuild_cache.dir

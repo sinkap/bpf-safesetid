@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/libbpf-build"
+		},
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/CMakeFiles/libbpf-build.rule"
+		},
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/libbpf/src/libbpf-stamp/libbpf-build.rule"
+		},
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/libbpf/src/libbpf-stamp/libbpf-configure.rule"
+		},
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/libbpf/src/libbpf-stamp/libbpf-patch.rule"
+		},
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/libbpf/src/libbpf-stamp/libbpf-update.rule"
+		},
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/libbpf/src/libbpf-stamp/libbpf-download.rule"
+		},
+		{
+			"file" : "/usr/local/google/home/kpsingh/projects/bpf-safesetid/src/build/libbpf/src/libbpf-stamp/libbpf-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libbpf"
+		],
+		"name" : "libbpf-build"
+	}
+}

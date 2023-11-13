@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/safesetid.dir/safesetid.c.o -o safesetid  libbpf/libbpf.a -lelf -lz 
